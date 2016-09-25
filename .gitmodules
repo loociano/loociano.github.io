@@ -1,3 +1,6 @@
 [submodule "telephone-no-converter"]
 	path = telephone-no-converter
 	url = https://github.com/loociano/telephone-no-converter.git
+[submodule "gb-ES6"]
+	path = gb-ES6
+	url = https://github.com/loociano/gb-ES6
