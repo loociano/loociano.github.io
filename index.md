@@ -10,6 +10,6 @@ layout: default
 
 ### Random
 
-* [deckers](https://github.com/loociano/deckers) London double deckers with CSS `transform`
-* [right-to-left 101](https://github.com/loociano/right-to-left-html-101) text direction with `rtl` in HTML
-* [flatten-phonenumber](https://github.com/loociano/flatten-phonenumber) flattens a phonenumber input
+* [deckers](http://loociano.github.io/deckers) London double deckers with CSS `transform`
+* [right-to-left 101](http://loociano.github.io/right-to-left-html-101) text direction with `rtl` in HTML
+* [flatten-phonenumber](http://loociano.github.io/flatten-phonenumber/) flattens a phonenumber input
