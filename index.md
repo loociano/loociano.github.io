@@ -4,8 +4,9 @@ layout: default
 
 ### Projects
 
-* [ESboy.org](http://www.esboy.org) Free Web Gameboy emulator
+* [N-Gage Emulation Docs](http://loociano.github.io/N-Gage-emu-docs/) Reverse Engineering the N-Gage (Research doc)
 * [gba-ES6](http://loociano.github.io/gba-ES6/) Free Web Gameboy Advance emulator ([ARM7TDMI](https://en.wikipedia.org/wiki/ARM7) core)
+* [ESboy.org](http://www.esboy.org) Free Web Gameboy emulator
 * [Tetris Attack JS](http://loociano.github.io/tetris-attack-ai/) Tetris Attack, Javascript Port 
 
 ### Random
