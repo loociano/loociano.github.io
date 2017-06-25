@@ -4,7 +4,7 @@ layout: default
 
 ### Projects
 
-* [n-gage.org](http://n-gage.org) Reverse engineering the Nokia N-Gage (documentation project)
+* [n-gage.org](http://n-gage.org) Reverse engineering the Nokia N-Gage (doc project)
 * [gba-ES6](http://loociano.github.io/gba-ES6/) Free Web Gameboy Advance emulator ([ARM7TDMI](https://en.wikipedia.org/wiki/ARM7) core)
 * [ESboy.org](http://www.esboy.org) Free Web Gameboy emulator
 * [Tetris Attack JS](http://loociano.github.io/tetris-attack-ai/) Tetris Attack, Javascript Port 
