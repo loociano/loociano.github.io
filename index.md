@@ -4,7 +4,8 @@ layout: default
 
 ### Projects
 
-* [tamagotch.org](http://tamagotch.org) Reverse engineering Tamagotchi toys (doc project) 
+* [http://tamagotch.org/tamatown](http://tamagotch.org/tamatown) · [\[GitHub\]](https://github.com/loociano/tamatown) Waking up Tamagotchi Town —TamaTown · 
+* [tamagotch.org](http://tamagotch.org) Reverse engineering Tamagotchi toys (research project) 
 * [n-gage.org](http://n-gage.org) Reverse engineering the Nokia N-Gage (doc project)
 * [gba-ES6](http://loociano.github.io/gba-ES6/) Free Web Gameboy Advance emulator ([ARM7TDMI](https://en.wikipedia.org/wiki/ARM7) core)
 * [ESboy.org](http://www.esboy.org) Free Web Gameboy emulator
