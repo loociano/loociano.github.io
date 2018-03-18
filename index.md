@@ -4,12 +4,12 @@ layout: default
 
 ### Projects
 
-* [TamaTown](http://tamagotch.org/tamatown) · Waking up Tamagotchi Town —TamaTown · 
-* [tamagotch.org](http://tamagotch.org) · Reverse engineering Tamagotchi toys (research project) 
-* [n-gage.org](http://n-gage.org) · Reverse engineering the Nokia N-Gage (research project)
-* [gba-ES6](http://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator ([ARM7TDMI](https://en.wikipedia.org/wiki/ARM7) core)
+* [TamaTown](http://tamagotch.org/tamatown) · Waking up Tamagotchi Town —TamaTown
+* [tamagotch.org](http://tamagotch.org) · Reverse engineering Tamagotchi toys. Research project 
+* [n-gage.org](http://n-gage.org) · Reverse engineering the Nokia N-Gage. Research project
+* [gba-ES6](http://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator (in progress)
 * [ESboy.org](http://www.esboy.org) · Web Gameboy Color emulator
-* [Tetris Attack JS](http://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack 
+* [Tetris Attack JS](http://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack (in progress) 
 
 ### Misc experiments
 
