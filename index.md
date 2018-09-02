@@ -17,8 +17,8 @@ layout: default
 ### Research
 
 * [TamaTown](http://tamagotch.org/tamatown) · Waking up Tamagotchi Town —TamaTown
-* [tamagotch.org](http://tamagotch.org) · Reverse engineering Tamagotchi toys. Research project 
-* [n-gage.org](http://n-gage.org) · Reverse engineering the Nokia N-Gage. Research project
+* [tamagotch.org](http://tamagotch.org) · Reverse engineering Tamagotchi toys hardware
+* [n-gage.org](http://n-gage.org) · Reverse engineering the Nokia N-Gage, state of emulation
 
 ### Misc
 
