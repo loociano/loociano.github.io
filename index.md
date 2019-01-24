@@ -18,8 +18,8 @@ layout: default
 
 ### Research
 
-* [TamaTown](http://tamagotch.org/tamatown) · Waking up Tamagotchi Town —TamaTown
-* [tamagotch.org](http://tamagotch.org) · Reverse engineering Tamagotchi toys hardware
+* [TamaTown](https://github.com/loociano/tamatown) · Waking up Tamagotchi Town —TamaTown
+* [Tamagotchi Tech Specs](https://tama.loociano.com) · Reverse engineering Tamagotchi toys hardware
 * [n-gage.org](http://n-gage.org) · Reverse engineering the Nokia N-Gage, state of emulation
 
 ### Misc
