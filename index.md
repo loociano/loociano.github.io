@@ -5,7 +5,7 @@ layout: default
 ### Software
 
 * [gba-ES6](http://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator (in progress)
-* [ESboy.org](http://www.esboy.org) · Web Gameboy Color emulator
+* [ESboy](http://esboy.loociano.com) · Web Gameboy Color emulator in EcmaScript 6
 * [Tetris Attack JS](http://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack (in progress) 
 
 ### Hardware
