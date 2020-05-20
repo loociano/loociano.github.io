@@ -1,7 +1,5 @@
 ## Cura Plugin to connect to Monoprice Select Mini V2 over Wi-Fi
 
-### Overview
-
 This plugin for [Cura](https://github.com/ultimaker/cura) enables network interoperability with Monoprice Select Mini V2 printers.
 
 This software is unofficial and not affiliated with Monoprice.
