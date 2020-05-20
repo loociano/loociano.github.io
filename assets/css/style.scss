@@ -12,9 +12,14 @@ a {
     transition: all 0.25s;
 }
 
-a:hover, a:focus {
+header p.view a:hover, header p.view a:focus,
+section a:hover, section a:focus {
     font-weight: normal;
     text-decoration: underline;
+}
+
+header h1 a {
+    color: #494949;
 }
 
 code {
