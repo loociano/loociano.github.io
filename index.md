@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Luc Rubio · Software Engineer
 ---
 
 ### Software
