@@ -1,3 +1,7 @@
+---
+title: Monoprice Select Mini V2 — Cura Network Plugin · Luc Rubio
+---
+
 ## Monoprice Select Mini V2 — Cura Network Plugin
 
 This plugin for [Cura](https://github.com/ultimaker/cura) enables network interoperability with Monoprice Select Mini V2 printers.
