@@ -12,7 +12,11 @@ _This software is unofficial and not affiliated with Monoprice. Use at your own 
 
 ### Requirements
 
-* [Cura 4.6.0](https://ultimaker.com/software/ultimaker-cura) or later.
+1. Setup Wi-Fi on the printer, by [following one of these methods](https://www.mpselectmini.com/wifi/start). 
+
+   Once completed, the printer's IP address should appear on the LCD screen. Example: `192.168.0.136`.
+
+1. Install [Cura 4.4.0](https://ultimaker.com/software/ultimaker-cura) or later.
 
 ### How to install
 
@@ -60,11 +64,13 @@ _This software is unofficial and not affiliated with Monoprice. Use at your own 
 
 ### Development
 
-(Optional) clone [monoprice-select-mini-v2-api-mock](https://github.com/loociano/monoprice-select-mini-v2-api-mock) to simulate a Monoprice Select Mini V2 printer running locally.
+* Clone or download the [Github repo](https://github.com/loociano/MPSM2NetworkPrinting) into Cura's user plugins 
+directory.
 
-### Author
+   _On MS Windows, it is located on `C:\Users\<user>\AppData\Roaming\cura\<cura_version>\plugins`_
 
-Luc Rubio <luc@loociano.com>
+* (Optional) Clone or download [monoprice-select-mini-v2-api-mock](https://github.com/loociano/monoprice-select-mini-v2-api-mock) 
+to simulate a Monoprice Select Mini V2 printer running locally.
 
 ### License
 
