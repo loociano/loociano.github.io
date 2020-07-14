@@ -20,7 +20,7 @@ title: Luc Rubio · Software Engineer
 
 * [TamaTown](https://github.com/loociano/tamatown) · Waking up Tamagotchi Town —TamaTown
 * [Tamagotchi Tech Specs](https://tama.loociano.com) · Reverse engineering Tamagotchi toys hardware
-* [n-gage.org](http://n-gage.org) · Reverse engineering the Nokia N-Gage, state of emulation
+* [N-Gage Emulation Docs](http://n-gage.loociano.com) · Reverse engineering the Nokia N-Gage, state of emulation
 
 ### Misc
 
