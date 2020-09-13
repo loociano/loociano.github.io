@@ -30,7 +30,7 @@ _This software is unofficial and not affiliated with Monoprice. Use at your own 
 
 ### How to use
 
-1. **Important**: due to [a bug](https://github.com/Ultimaker/Cura/issues/7739) in Cura 4.6.1 or earlier, you need to temporarily disable the **UM3 Network Printing** plugin to add the printer over the network. Go to Marketplace → Installed and disable **UM3 Network Printing** plugin. Restart Cura to apply changes.
+1. **Update to Cura 4.7 or later**. In earlier versions, you need to temporarily disable the **UM3 Network Printing** plugin to add the printer over the network. Go to Marketplace → Installed and disable **UM3 Network Printing** plugin. Restart Cura to apply changes.
 
    ![](https://github.com/loociano/loociano.github.io/blob/master/assets/mpsm2-cura-plugin/um3-network-printing-disabled.png?raw=true)
 
