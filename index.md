@@ -6,9 +6,9 @@ title: Luc Rubio · Software Engineer
 ### Software
 
 * [Cura Plugin to connect to Monoprice Select Mini V2 over Wi-Fi](./mpsm2-cura-plugin.html)
-* [gba-ES6](http://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator (in progress)
-* [ESboy](http://esboy.loociano.com) · Web Gameboy Color emulator in EcmaScript 6
-* [Tetris Attack JS](http://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack (in progress) 
+* [gba-ES6](https://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator (in progress)
+* [ESboy](https://esboy.loociano.com) · Web Gameboy Color emulator in EcmaScript 6
+* [Tetris Attack JS](https://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack (in progress) 
 
 ### Hardware
 
@@ -20,10 +20,10 @@ title: Luc Rubio · Software Engineer
 
 * [TamaTown](https://github.com/loociano/tamatown) · Waking up Tamagotchi Town —TamaTown
 * [Tamagotchi Tech Specs](https://tama.loociano.com) · Reverse engineering Tamagotchi toys hardware
-* [N-Gage Emulation Docs](http://n-gage.loociano.com) · Reverse engineering the Nokia N-Gage, state of emulation
+* [N-Gage Emulation Docs](https://n-gage.loociano.com) · Reverse engineering the Nokia N-Gage, state of emulation
 
 ### Misc
 
-* [deckers](http://loociano.github.io/deckers) · London double deckers with CSS `transform`
-* [right-to-left 101](http://loociano.github.io/right-to-left-html-101) · text direction with `rtl` in HTML
-* [flatten-phonenumber](http://loociano.github.io/flatten-phonenumber/) · flattens a phonenumber input
+* [deckers](https://loociano.github.io/deckers) · London double deckers with CSS `transform`
+* [right-to-left 101](https://loociano.github.io/right-to-left-html-101) · text direction with `rtl` in HTML
+* [flatten-phonenumber](https://loociano.github.io/flatten-phonenumber/) · flattens a phonenumber input
