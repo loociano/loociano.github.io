@@ -20,8 +20,7 @@ risk._
 
 If this plugin was useful to you, please consider making a donation.
 
-[![paypal](https://github.com/loociano/MPSM2NetworkPrinting/blob/master/resources/png/paypal.png?raw=true)](https://paypal.me/loociano)
-[![revolut](https://github.com/loociano/MPSM2NetworkPrinting/blob/master/resources/png/revolut.png?raw=true)](https://revolut.me/loociano)
+[![paypal](https://github.com/loociano/MPSM2NetworkPrinting/blob/master/resources/png/paypal.png?raw=true)](https://paypal.me/loociano) &nbsp;&nbsp; [![revolut](https://github.com/loociano/MPSM2NetworkPrinting/blob/master/resources/png/revolut.png?raw=true)](https://revolut.me/loociano)
 
 [Or donate with credit card](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AHZG8HGU4GM8G)
 
