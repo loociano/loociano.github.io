@@ -2,19 +2,23 @@
 title: Monoprice Select Mini V2 — Cura Network Plugin · Luc Rubio
 ---
 
-## Cura Network Plugin for Monoprice Select Mini V2
-
-![](https://travis-ci.org/loociano/MPSM2NetworkPrinting.svg?branch=master)
+### Cura Network Plugin for Monoprice Select Mini V2
 
 This [plugin](https://marketplace.ultimaker.com/app/cura/plugins/loociano/MPSM2NetworkPrinting)
 for [Cura](https://github.com/ultimaker/cura) enables network interoperability
 with Monoprice Select Mini V2 printers.
 
-Plugin is compatible with Monoprice Select Mini V1 and Delta printers, with
-limited support ⁠—I do not own these.
-
 _This software is unofficial and not affiliated with Monoprice. Use at your own
 risk._
+
+#### Compatible printers
+
+* Monoprice Select Mini V2
+* Monoprice Select Mini V1 (limited support, I do not own one)
+
+#### Incompatible printers
+
+* Monoprice Mini Delta V2 (has a [different web API](https://gist.github.com/jaredharley/31e6a05da2a2edf44c5150d839439c9b))
 
 ### Donate
 
