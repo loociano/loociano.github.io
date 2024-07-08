@@ -12,9 +12,9 @@ title: Luc Rubio · Software Engineer
 
 #### Software
 
-* [gba-ES6 (2017)](https://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator
 * [ESboy (2017-19)](https://esboy.loociano.com) · Web Gameboy Color emulator in EcmaScript 6
-* [Tetris Attack JS (2014)](https://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack 
+* [gba-ES6 (2017)](https://loociano.github.io/gba-ES6/) · Web Gameboy Advance emulator (unfinished)
+* [Tetris Attack JS (2014)](https://loociano.github.io/tetris-attack-ai/) · JavaScript port of Tetris Attack (unfinished)
 
 #### Hardware
 
