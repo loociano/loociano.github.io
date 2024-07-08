@@ -6,6 +6,7 @@ title: Luc Rubio · Software Engineer
 ### Active Projects
 
 * [Cura Plugin to connect to Monoprice Select Mini V2 over Wi-Fi (2020-23)](./mpsm2-cura-plugin.html)
+* [My Advent of Code solutions (2019-23)](https://github.com/loociano/advent-of-code)
 
 ### Previous Projects
 
